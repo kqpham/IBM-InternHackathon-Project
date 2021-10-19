@@ -1,9 +1,9 @@
 # IBM-InternHackathon-Project
 
 #Stack
-React
-Flask/Python
-Watson Studio API
+*React
+*Flask/Python
+*Watson Studio API
 
 # Description
  
